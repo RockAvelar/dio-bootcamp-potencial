@@ -1,3 +1,3 @@
-# dio-bootcamp-potencial-desafio-de-projeto
+# Desafio de Projeto Dio - Git/GitHub
 Repositório para o bootcamp Pottencial
 
